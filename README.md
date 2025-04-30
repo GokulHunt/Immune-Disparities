@@ -6,7 +6,7 @@ The primary objective of this study was to examine regional variations in immune
 
 ### Statistical Methods
 - Linear outcomes (immune cells): **Two-level linear regression models** for continuous immune markers, accounting for clustering of individuals within census tracts
-- Categorucal outcomes (ARIPs): Logistic regression models with standard errors adjusted for census tract clustering
+- Categorical outcomes (ARIPs): Logistic regression models with standard errors adjusted for census tract clustering
 
 **Sampling weights were used**, hence the estimates are nationally representative.
 
